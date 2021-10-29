@@ -3,7 +3,6 @@ import streamlit as st
 import pandas as pd
 import pickle
 import datetime
-import yfinance as yf
 import numpy as np
 
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer 
